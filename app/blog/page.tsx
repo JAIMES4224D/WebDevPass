@@ -98,6 +98,18 @@ const articles = [
     icon: Layers3,
     featured: false,
   },
+  {
+    number: "04",
+    category: "Sistemas",
+    title: "Los 5 mejores sistemas operativos Linux en 2026",
+    description: "Descubre las 5 mejores distribuciones Linux en 2026: Ubuntu, Debian, Linux Mint, Fedora y Arch Linux.",
+    date:"2026",
+    readingTime: "10 min",
+    href: "/blog/mejores-distribuciones-linux",
+    image: "/images/blog/mejores-distribuciones-linux.webp",
+    icon: Layers3,
+    featured: false,
+  },
 ];
 
 export default function BlogPage() {
