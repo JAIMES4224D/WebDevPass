@@ -212,6 +212,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly",
       priority: 0.8,
     },
+    {
+      url: `${seoConfig.siteUrl}/blog/elegir-distribucion-linux`,
+      lastModified: now,
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
 
     // ─────────────────────────────────────────────
     // NOTES
