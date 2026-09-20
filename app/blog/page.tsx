@@ -110,6 +110,18 @@ const articles = [
     icon: Layers3,
     featured: false,
   },
+  {
+    number: "05",
+    category: "Sistemas",
+    title: "Cómo elegir la mejor distribución Linux para ti",
+    description: "Guía para elegir la distribución Linux que mejor se adapte a tus necesidades, considerando factores como facilidad de uso, estabilidad, soporte y comunidad.",
+    date:"2026",
+    readingTime: "8 min",
+    href: "/blog/elegir-distribucion-linux",
+    image: "/images/blog/elegir-distribucion-linux.webp",
+    icon: Layers3,
+    featured: false,
+  },
 ];
 
 export default function BlogPage() {
