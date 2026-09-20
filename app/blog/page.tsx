@@ -122,6 +122,18 @@ const articles = [
     icon: Layers3,
     featured: false,
   },
+  {
+    number: "06",
+    category: "Sistemas",
+    title: "Comandos esenciales de Linux para principiantes",
+    description: "Aprende los comandos esenciales de Linux para principiantes, incluyendo navegación de directorios, gestión de archivos, permisos y más.",
+    date:"2026",
+    readingTime: "8 min",
+    href: "/blog/linux-comandos-esenciales-principiantes",
+    image: "/images/blog/linux-comandos-esenciales-principiantes.webp",
+    icon: Layers3,
+    featured: false,
+  },
 ];
 
 export default function BlogPage() {

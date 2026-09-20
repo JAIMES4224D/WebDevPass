@@ -218,6 +218,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly",
       priority: 0.8,
     },
+    {
+      url: `${seoConfig.siteUrl}/blog/linux-comandos-esenciales-principiantes`,
+      lastModified: now,
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
 
     // ─────────────────────────────────────────────
     // NOTES
