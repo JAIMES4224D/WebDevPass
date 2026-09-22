@@ -432,7 +432,7 @@ export default function BlogPage() {
 
                 <div className="flex items-center gap-2 text-xs text-[#64748b]">
                   <span className="h-1.5 w-1.5 rounded-full bg-[#3da5ff]" />
-                  3 artículos publicados
+                  9 artículos publicados
                 </div>
               </div>
             </div>
