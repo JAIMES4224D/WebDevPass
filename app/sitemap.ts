@@ -224,7 +224,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly",
       priority: 0.8,
     },
-
+    {
+      url: `${seoConfig.siteUrl}/blog/diagnostico-redes-linux`,
+      lastModified: now,
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: `${seoConfig.siteUrl}/blog/arquitectura-software`,
+      lastModified: now,
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
+    {
+      url: `${seoConfig.siteUrl}/blog/buenas-practicas-programacion`,
+      lastModified: now,
+      changeFrequency: "monthly",
+      priority: 0.8,
+    },
     // ─────────────────────────────────────────────
     // NOTES
     // ─────────────────────────────────────────────
